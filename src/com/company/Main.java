@@ -12,7 +12,7 @@ public class Main {
             // } else {
             //    System.out.println("Not Prime");
             // }
-            //  }
+            //   }
         for (long i = 1048477; i < 1048597 ; i++) {
         if (isPrime(i)) {
         System.out.println("The entered number : " + i + " is prime");
